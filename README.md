@@ -9,7 +9,7 @@
 </h1>
 
 <h3>  </h3>
-  Sou aluna de ciência da computução e sou apaixonada por tudo que envolve tecnologia.🤍
+  Sou apaixonada por tudo que envolve tecnologia.🤍
 
 📚 **Acadêmico:** Cursando Ciência da Computação na **[UniFavip](https://www.wyden.com.br/unifavip)**.
 
